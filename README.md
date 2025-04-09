@@ -33,4 +33,4 @@ Telegram: [@i3_sol](https://t.me/i3_sol) <br>
 
     ```
     npm start
-    ```
+    ```-
