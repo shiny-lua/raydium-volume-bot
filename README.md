@@ -10,14 +10,14 @@ If you have any question or something, feel free to reach out me anytime via tel
 <br>
 #### 🌹You're always welcome🌹
 
-Telegram: [@whistle](https://t.me/devbeast5775) <br>
+Telegram: [@i3_sol](https://t.me/i3_sol) <br>
 
 
 ## 👀Usage
 1. Clone the repository
 
     ```
-    git clone https://github.com/whistledev411/raydium-volume-bot.git
+    git clone https://github.com/shiny-lua/raydium-volume-bot.git
     cd raydium-volume-bot
     ```
 2. Install dependencies
